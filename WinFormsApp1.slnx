@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="bai3.1/duanma2.csproj" Id="65472300-2a4a-441d-8113-2bd89b2a44b2" />
+  <Project Path="Bai3.11/Bai3.11.csproj" Id="510a7972-8725-4a38-83c2-e7b72554f1f9" />
+  <Project Path="bai3.2/bai3.2.csproj" Id="db73f377-a680-46d4-bce1-24fb00f9ea49" />
+  <Project Path="bai3.3/duanma.csproj" Id="b60bf682-a37e-498e-b1a4-173f55bf4027" />
+  <Project Path="dangkicacmonthethao/dangkicacmonthethao.csproj" Id="60b79c7c-6776-4341-a074-8bb60cc7db61" />
+  <Project Path="GPT1-2/GPT1-2.csproj" Id="b05f9439-3195-4281-b03a-b97701695028" />
+  <Project Path="tesst/tesst.csproj" Id="8d95c01b-f802-47d2-a16c-633fd93a23fa" />
+  <Project Path="WinFormsApp1/ptbac2.csproj" />
+</Solution>
