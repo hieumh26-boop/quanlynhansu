@@ -103,6 +103,7 @@ namespace dangnhap
             taotaikhoan ttk = new taotaikhoan();
             ttk.ShowDialog();
             this.Close();
+            //biết dùng r
         }
     }
 }
